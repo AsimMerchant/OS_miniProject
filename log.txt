@@ -1,0 +1,20 @@
+Wed Nov 15 18:07:18 IST 2017
+Basic details were accessed in /home/batch1/OS/OS_Examples/OS_Examples/MINI_PROJECT
+Recursive directores info were accessed in /home/batch1/OS/OS_Examples/OS_Examples/MINI_PROJECT
+All files were displayed recursively in /home/batch1/OS/OS_Examples/OS_Examples/MINI_PROJECT
+ 
+Wed Nov 15 18:23:07 IST 2017
+Basic details were accessed in /home/batch1/OS/OS_Examples/OS_Examples/MINI_PROJECT
+Recursive directores info were accessed in /home/batch1/OS/OS_Examples/OS_Examples/MINI_PROJECT
+All files were displayed recursively in /home/batch1/OS/OS_Examples/OS_Examples/MINI_PROJECT
+ 
+Wed Nov 15 18:23:11 IST 2017
+Recursively or non-recursively, files and directrories were displayed to look for specific string in file in /home/batch1/OS/OS_Examples/OS_Examples/MINI_PROJECT
+Filename: main.c String to be searched: printf
+Occurrence of string in file was found
+ 
+Wed Nov 15 19:42:24 IST 2017
+Duplicate files were found only in /home/batch1/OS/OS_Examples/OS_Examples/MINI_PROJECT
+ 
+Code exited on
+Wed Nov 15 19:46:08 IST 2017
